@@ -1,0 +1,5 @@
+Our code will download the traning dataset and testing dataset automatically to the dirctory of the notebook file that's running.
+The baseline model will produce js_out.csv and cs_out.csv.
+The model we create will produce result.csv.
+
+Detailed description and explaination are in project.ipynb and report.pdf
