@@ -2,6 +2,6 @@ Our code will download the traning dataset and testing dataset automatically to 
 The baseline model will produce js_out.csv and cs_out.csv.
 The model we create will produce result.csv.
 
-Kaggle's 
+Kaggle's score is 0.4
 
 Detailed description and explaination are in project.ipynb and report.pdf
